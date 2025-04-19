@@ -108,6 +108,15 @@ Citation Examples
 - Gudadhe, M., Wankhade, K., & Dongre, S. (2010). IEEE ICCCT.
 - Heart Disease Dataset – Kaggle: [link](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
 
+## 🎥 Presentation Video
+
+Click the image below to watch my full project presentation on YouTube:
+
+[![Watch Presentation](http://img.youtube.com/vi/0EsjslEh898/0.jpg)](https://youtu.be/0EsjslEh898)
+
+
+
+
 Author
 
 Asiana Holloway 
