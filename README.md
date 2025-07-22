@@ -1,13 +1,19 @@
-# Exploring-Machine-Learning-Applications-in-Predicting-Heart-Disease-risk
-A Comparative Study of Logistic Regression, SVM,  and Decision Trees
 
-Problem Statement & Purpose
+# Exploring-Machine-Learning-Applications-in-Predicting-Heart-Disease-risk  
+A Comparative Study of Logistic Regression, SVM, and Decision Trees  
+
+[🎥 Watch project presentation video here](https://www.youtube.com/watch?v=0EsjslEh898)
+
+
+## Problem Statement & Purpose
 
 Heart disease is one of the leading causes of death globally, yet early diagnosis remains a major challenge in clinical settings. Traditional risk calculators often fail to identify high-risk individuals in time for preventative interventions. In response to this, the healthcare industry is increasingly turning to artificial intelligence (AI) and machine learning (ML) to enhance diagnostic accuracy and decision-making.
 
 The purpose of this project is to investigate how machine learning can be applied to predict heart disease risk using structured clinical data. By evaluating and comparing three widely used ML models Logistic Regression, support Vector Machine (SVM), and Decision Trees. This research aims to determine which algorithm provides the most reliable predictions and is most suitable for clinical integration.
 
-What This Project Covers
+---
+
+## What This Project Covers
 
 This project uses the Heart Disease UCI dataset from Kaggle to develop and evaluate three supervised ML models. The models are assessed based on five key performance metrics:
 - Accuracy
@@ -22,7 +28,9 @@ In addition to model training and testing, the project includes:
 - Performance comparison against peer-reviewed literature
 - Discussion of real-world applicability in healthcare settings
 
-Dataset
+---
+
+## Dataset
 
 Heart Disease UCI Dataset 
 Available on Kaggle: [https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci]
@@ -40,7 +48,9 @@ The dataset contains 303 records with 14 clinical attributes including:
 
 The target variable (`condition`) indicates presence (1) or absence (0) of heart disease.
 
-Tools and Methodology
+---
+
+## Tools and Methodology
 
 - Python (Google Colab)
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
@@ -55,7 +65,9 @@ Models Implemented:
 - **Support Vector Machine (SVM)** — a margin-based classifier
 - **Decision Tree** — a tree-based model with rule-based splitting
 
-Evaluation Metrics:
+---
+
+## Evaluation Metrics:
 Models were evaluated using:
 - Accuracy
 - Precision
@@ -63,7 +75,9 @@ Models were evaluated using:
 - F1 Score
 - ROC AUC
 
-Model Results
+---
+
+## Model Results: 
 
 | Model              | Accuracy | Precision | Recall | F1 Score | ROC AUC |
 |--------------------|----------|-----------|--------|----------|----------|
@@ -73,15 +87,19 @@ Model Results
 
 - Decision Tree performed best overall with highest accuracy and F1 score.
 - Logistic Regression and SVM had stronger AUC scores, showing good class separation.
+  
+---
 
-Visualizations
+## Visualizations:
 
 - Confusion matrices for each model to show prediction breakdown
 - ROC curves with AUC values for visual model comparison
 
 Visuals are available in the file: `model_visuals.png`
 
-Literature Support
+---
+
+## Literature Support
 
 This project was informed by peer-reviewed research demonstrating the effectiveness of ML in cardiovascular risk prediction:
 
@@ -91,8 +109,10 @@ This project was informed by peer-reviewed research demonstrating the effectiven
 - Alizadehsani et al. (2018)– Compared ML methods for coronary artery diagnosis.
 - IEEE CONECCT (2022) – Confirmed the usefulness of comparing multiple supervised ML algorithms.
 - Detrano et al. (1989)– Provided clinical validation for the UCI dataset structure.
+  
+---
 
-Project Status
+## Project Status
 
 Model selection and training complete  
 Metrics evaluated and interpreted  
@@ -102,11 +122,13 @@ Deployed on GitHub for open-source access and future learning
 
 This project is complete and was submitted as part of the SAT5114 AI in Healthcare course requirements.
 
-Citation Examples
+## Citation Examples
 
 - Weng, S. F., Reps, J., Kai, J., et al. (2017). PLoS ONE, 12(4), e0174944.
 - Gudadhe, M., Wankhade, K., & Dongre, S. (2010). IEEE ICCCT.
 - Heart Disease Dataset – Kaggle: [link](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
+
+---
 
 ## 🎥 Presentation Video
 
