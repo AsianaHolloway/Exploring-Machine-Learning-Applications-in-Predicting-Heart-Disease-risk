@@ -4,6 +4,10 @@ A Comparative Study of Logistic Regression, SVM, and Decision Trees
 
 [🎥 Watch project presentation video here](https://www.youtube.com/watch?v=0EsjslEh898)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/AsianaHolloway/Exploring-Machine-Learning-Applications-in-Predicting-Heart-Disease-risk/blob/main/Heart_Disease_ML_Comparison%20(1).ipynb)
+
+
 
 ## Problem Statement & Purpose
 
