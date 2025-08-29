@@ -147,5 +147,5 @@ Author
 
 Asiana Holloway 
 Graduate Student – AI in Healthcare  
-GitHub: AsianaHolloway
+GitHub: [AsianaHolloway](https://github.com/AsianaHolloway)
 
